@@ -16,4 +16,4 @@ I'm a junior **software engineer**!
 
 ### 📬 Contacts
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jiwon.developer@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://now-iz-tech.tistory.com/)](https://now-iz-tech.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jiwon.developer@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://now-iz-tech.tistory.com/)]()
